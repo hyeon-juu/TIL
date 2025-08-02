@@ -1,6 +1,6 @@
 # Lv. 1 부족한 금액 계산하기
 
-[출처]<https://school.programmers.co.kr/learn/courses/30/lessons/82612>
+[출처] <https://school.programmers.co.kr/learn/courses/30/lessons/82612>
 
 ## 문제
 
